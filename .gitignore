@@ -1,4 +1,5 @@
 venv/
 .env
-*.png
+uso_terminal.png
 __pycache__/
+
