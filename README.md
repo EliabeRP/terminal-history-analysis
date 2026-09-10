@@ -9,6 +9,9 @@ Projeto simples de análise de dados desenvolvido como exercício prático de Py
 - Calcula o volume e percentual de uso das ferramentas.
 - Gera um gráfico de barras (uso_terminal.png) com o top 10 comandos mais acessados.
 
+## Exemplo de gráfico gerado
+![painel](exemplo.png)
+
 ## Pré-requisitos
 
 - Python 3.8+
